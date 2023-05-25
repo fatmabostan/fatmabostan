@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @fatmabostan
-- 👀 I’m interested in python, c#, artificial intelligence(AI) and cyber security
+- 👀 I’m interested in Java and Embedded Systems
 - 🌱 I’m currently learning data structure & algorithm, trying to learn AI and Cyber Security
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me fatma_bostan_@outlook.com
