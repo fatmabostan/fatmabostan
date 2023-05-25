@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fatmabostan
 - 👀 I’m interested in Java and Embedded Systems
-- 🌱 I’m currently learning data structure & algorithm, trying to learn AI and Cyber Security
+- 🌱 I’m currently learning data structure & algorithm, Java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me fatma_bostan_@outlook.com
 
